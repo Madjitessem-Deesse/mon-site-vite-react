@@ -47,4 +47,4 @@ src/
 
 ## Capture de mon site
 
-![Aperçu de la page d’accueil](images/preview-homepage.png)
+![Aperçu de la page d’accueil](https://raw.githubusercontent.com/Madjitessem-Deesse/mon-site-vite-react/main/images/preview-homepage.png)
