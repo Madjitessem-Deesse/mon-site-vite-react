@@ -45,6 +45,6 @@ src/
 ---
 
 
-#Capture du site
-![Aperçu de la page d’accueil](./src/assets/preview-homepage.png)
+## Capture de mon site
 
+![Aperçu de la page d’accueil](images/preview-homepage.png)
